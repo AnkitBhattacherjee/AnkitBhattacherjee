@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 B.Tech CSE Student | Techno India University<br><br>🌟 Web Developer | UI/UX Designer<br><br>Hi! I’m Ankit Bhattacherjee, a Computer Science student passionate about technology and design. I specialize in front-end development, UI/UX design, and have a strong foundation in C programming.<br>With experience in tools like HTML, CSS, and Figma, I’ve successfully cloned websites like Amazon and Netflix, showcasing my skills in creating functional, user-friendly interfaces. Always eager to learn and grow, I’m excited to collaborate on innovative projects! 🚀
 
 
@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ankitaiphoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-bhattacherjee-781a52322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cse.ankitbhattacherjee@gmail.com) 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
